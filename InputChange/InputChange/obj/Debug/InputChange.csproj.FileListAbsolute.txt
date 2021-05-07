@@ -1,0 +1,10 @@
+C:\Users\Yusuf\Desktop\gİTH\ProjeOdevim\InputChange\bin\Debug\InputChange.exe.config
+C:\Users\Yusuf\Desktop\gİTH\ProjeOdevim\InputChange\bin\Debug\InputChange.exe
+C:\Users\Yusuf\Desktop\gİTH\ProjeOdevim\InputChange\bin\Debug\InputChange.pdb
+C:\Users\Yusuf\Desktop\gİTH\ProjeOdevim\InputChange\obj\Debug\InputChange.csprojAssemblyReference.cache
+C:\Users\Yusuf\Desktop\gİTH\ProjeOdevim\InputChange\obj\Debug\InputChange.Form1.resources
+C:\Users\Yusuf\Desktop\gİTH\ProjeOdevim\InputChange\obj\Debug\InputChange.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\gİTH\ProjeOdevim\InputChange\obj\Debug\InputChange.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\gİTH\ProjeOdevim\InputChange\obj\Debug\InputChange.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\gİTH\ProjeOdevim\InputChange\obj\Debug\InputChange.exe
+C:\Users\Yusuf\Desktop\gİTH\ProjeOdevim\InputChange\obj\Debug\InputChange.pdb
